@@ -1,8 +1,9 @@
 ### Hi, it's Yuji 👋
 ---
 
-I'm Yuji Toshihiro from Japan. I'm studying Dart and sometimes Rust.
+I'm Yuji Toshihiro from Japan.
 
-- Frontend: Flutter
-- Backend: Firebase
+- Frontend: React
+- Backend: Spring Boot
+- DataBase: MySQL
 - Blockchain: Hardhat, Cargo
