@@ -3,7 +3,7 @@
 
 I'm Yuji Toshihiro from Japan.
 
-- Frontend: React
-- Backend: Spring Boot
-- DataBase: MySQL
-- Blockchain: Hardhat, Cargo
+- Frontend: Flutter
+- Backend: Go
+- DataBase: PostgreSQL
+- Blockchain: Hardhat
